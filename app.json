@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Blank Template",
-    "slug": "react-lotto",
+    "slug": "react-native-weather",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
